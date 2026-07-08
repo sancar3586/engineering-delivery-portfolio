@@ -1,32 +1,26 @@
 Hi, I'm Harun Semih Sancar.
 
-I'm an Electrical Engineer and Engineering Manager with experience leading technical teams, managing factory relocation projects, improving engineering processes, and delivering operational excellence.
+Electrical & Automation Engineer with 15+ years of experience leading maintenance, automation and engineering teams in manufacturing.
 
-This repository showcases examples of my work in:
+My experience includes:
 
-- Engineering Delivery
-- Technical Project Management
-- Process Improvement
-- Incident Management (RCA)
-- AI-assisted Workflows
-- Documentation Templates
-- Project Planning
+- Engineering team leadership
+- Factory maintenance management
+- Delivery planning
+- Root Cause Analysis (RCA)
+- MTTR / MTBF improvement
+- Factory relocation projects
+- Process improvement
+- AI-assisted engineering workflows
 
-## Current Focus
+## Featured Case Studies
 
-- AI-assisted engineering management
-- Delivery optimisation
-- Process automation
-- Technical documentation
-- Cross-functional leadership
+- Improving maintenance delivery using MTTR & MTBF metrics
+- Leading multidisciplinary maintenance teams
+- Factory relocation planning and execution
+- Root Cause Analysis examples
+- AI-assisted engineering documentation
 
-## Repository Roadmap
+## Technologies
 
-- Delivery Process
-- Incident RCA Examples
-- Factory Relocation Planning
-- AI Workflows
-- Engineering Templates
-- Automation Examples
-
-Thank you for visiting.
+Siemens PLC • Beckhoff • SAP • TPM • Lean Manufacturing • RCA • AI Workflows • Technical Project Management
